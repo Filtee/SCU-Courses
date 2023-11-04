@@ -1,0 +1,9 @@
+[submodule "FA22"]
+	path = FA22
+	url = git@github.com:Filtee/SCU-FA22.git
+[submodule "SP23"]
+	path = SP23
+	url = git@github.com:Filtee/SCU-SP23.git
+[submodule "FA23"]
+	path = FA23
+	url = git@github.com:Filtee/SCU-FA23.git
