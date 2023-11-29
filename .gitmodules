@@ -7,3 +7,6 @@
 [submodule "FA23"]
 	path = FA23
 	url = git@github.com:Filtee/SCU-FA23.git
+[submodule "TrashCourses"]
+	path = TrashCourses
+	url = git@github.com:Filtee/SCU-TrashCourses.git
