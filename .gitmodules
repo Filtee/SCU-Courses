@@ -10,3 +10,6 @@
 [submodule "TrashCourses"]
 	path = TrashCourses
 	url = git@github.com:Filtee/SCU-TrashCourses.git
+[submodule "OptionalCourses"]
+	path = OptionalCourses
+	url = git@github.com:Filtee/SCU-OptionalCourses.git
